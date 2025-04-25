@@ -20,6 +20,7 @@
     "tailwindcss": "^4.1.4"
   },
   "devDependencies": {
+    "serve": "^14.2.4",
     "@eslint/js": "^9.22.0",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
